@@ -20,8 +20,8 @@ params:
 
     sidebar:
         compact: false
-        emoji:
-        subtitle:
+        emoji: 🌴
+        subtitle: juggling hobbies since 2001
         avatar:
             enabled: true
             local: true
